@@ -1,0 +1,14 @@
+Sample Output: 1
+The number of tasks and earnings available for others
+Task: 2
+Earnings: 400
+-------------------------------------------------------------
+Sample Output: 2
+The number of tasks and earnings available for others
+Task: 2
+Earnings: 400
+-----------------------------------------------------------
+Sample Output: 3
+The number of tasks and earnings available for others
+Task: 2
+Earnings: 200 
